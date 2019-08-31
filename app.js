@@ -1,6 +1,5 @@
 
 const sprite = document.getElementById('sprite');
-//sprite.style.backgroundPosition = "256px 256px";
 
 let    position = 256; 
 const  interval = 60; 
